@@ -12,6 +12,7 @@
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
+      "hotReloadEnabled": true,
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5176",
       "environmentVariables": {
@@ -21,6 +22,7 @@
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
+      "hotReloadEnabled": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7257;http://localhost:5176",
       "environmentVariables": {
@@ -29,6 +31,7 @@
     },
     "IIS Express": {
       "commandName": "IISExpress",
+      "hotReloadEnabled": true,
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
